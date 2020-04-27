@@ -1,9 +1,10 @@
-<p align="center">
-  ## JOLAN TRU
+<div align="center">  ## JOLAN TRU </div>
   
-  ![Image](https://media.giphy.com/media/W0crByKlXhLlC/giphy.gif)
+<img src="https://media.giphy.com/media/W0crByKlXhLlC/giphy.gif">
   
- </p>
+  
+  
+
 
 You can use the [editor on GitHub](https://github.com/wahprima/os201/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
