@@ -1,4 +1,4 @@
-## <div align="center"> JOLAN TRU </div>
+<center> <h2> Jolan Tru </h2> </center>
   
 <div align="center"> <img src="https://media.giphy.com/media/W0crByKlXhLlC/giphy.gif"> </div>
   
