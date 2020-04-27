@@ -1,6 +1,6 @@
-<div align="center">  ## JOLAN TRU </div>
+## <div align="center"> JOLAN TRU </div>
   
-<img src="https://media.giphy.com/media/W0crByKlXhLlC/giphy.gif">
+<div align="center"> <img src="https://media.giphy.com/media/W0crByKlXhLlC/giphy.gif"> </div>
   
   
   
