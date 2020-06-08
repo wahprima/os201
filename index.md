@@ -16,7 +16,7 @@ Selamat datang di halaman website sistem operasi. Halaman ini berisi informasi s
 
 #### Latar Belakang
 
-Website ini dibuat sebagai latihan diri pembuat untuk dapat membagi informasi yang telah didapat selama menempuh perkuliahan Sistem Operasi. Website ini dibuat berbasis github, siapapun dapat dengan mudah membuat website semacam ini. Jika kalian tertarik di bawah adalah beberapa materi yang berasal dari GSGS (google sana google sini) dan cscs (comot sana comot sini). Semoga dapat bermanfaat.
+Website ini dibuat sebagai latihan diri author sendiri serta untuk dapat membagi informasi yang telah didapat selama menempuh perkuliahan Sistem Operasi. Website ini dibuat berbasis github, siapapun dapat dengan mudah membuat website semacam ini. Jika kalian tertarik di bawah adalah beberapa materi yang berasal dari GSGS (google sana google sini) dan cscs (comot sana comot sini). Semoga dapat bermanfaat.
 
 #### Materi
 
