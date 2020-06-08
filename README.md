@@ -7,7 +7,13 @@
 
 ### SISTEM OPERASI - PRIMADITANINGTYAS W
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Website ini berisi informasi mengenai perkuliahan Sistem Operasi Fakultas Ilmu Komputer UI.
+
+
+### KONTEN
+
+1. [Melakukan Enkripsi File Dengan GPG](URLs/)
+2. [Materi Sistem Operasi UI](https://1drv.ms/u/s!AjAUCcP4ukTJgtRM5PvhDtC-KarQNQ?e=bMp1SD)
 
 ```markdown
 Syntax highlighted code block
