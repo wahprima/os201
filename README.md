@@ -4,16 +4,34 @@
   
   
   
-
-### SISTEM OPERASI - PRIMADITANINGTYAS W
-
-Website ini berisi informasi mengenai perkuliahan Sistem Operasi Fakultas Ilmu Komputer UI.
+Selamat datang di halaman website sistem operasi. Halaman ini berisi informasi seputar perkuliahan sistem operasi di Fakultas Ilmu Komputer UI.
 
 
 ### KONTEN
 
-1. [Melakukan Enkripsi File Dengan GPG](URLs/)
+1. Latar Belakang
+2. Materi
+3. Mengenai Author
+
+
+#### Latar Belakang
+
+Website ini dibuat sebagai bahan pelatihan diri pembuat untuk dapat mambagi informasi yang telah didapat selama menempuh perkuliahan Sistem Operasi. Website ini dibuat berbasis github, siapapun dapat dengan mudah membuat website semacam ini. Jika kalian tertarik di bawah adalah beberapa materi yang berasal dari GSGS (google sana google sini) dan cscs (comot sana comot sini). Semoga dapat bermanfaat.
+
+#### Materi
+
+1. [Membuat website menggunakan github] - sumber https://github.com/UI-FASILKOM-OS (https://extra182.vlsm.org/)
 2. [Materi Sistem Operasi UI](https://1drv.ms/u/s!AjAUCcP4ukTJgtRM5PvhDtC-KarQNQ?e=bMp1SD)
+
+
+#### Mengenai Author
+
+Author hanyalah seorang mahasiswa yang numpang belajar di Fasilkom UI.
+Author sebetulnya tertarik untuk memperdalam ilmu mengenai Data Science dan Machine Learning, beberapa hasil karya yang telah author buat dapat dilihat sebagai berikut :
+
+1. [Aplikasi Pendeteksi Gender Manusia](https://wahprima.shinyapps.io/voicedetector/)
+2. [Visualisasi Dashboard Statistik Pariwisata Indonesia](https://wahprima.shinyapps.io/pesonaindonesia/)
+3. [Tulisan Mengenai Bahasa R dan Data Science](https://rpubs.com/wahprima)
 
 ```markdown
 Syntax highlighted code block
