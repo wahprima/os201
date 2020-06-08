@@ -2,6 +2,8 @@
 permalink: /URLs/
 ---
 
+[HOME](https://wahprima.github.io/os201/)
+
 # Melakukan login badak melalui cmd windows
 
 ## 1. Lakukan ssh menggunakan akun UI anda melalui kawung terlebih dahulu.
