@@ -12,4 +12,4 @@ ssh primaditaningtyas.w01@kawung.cs.ui.ac.id
 
 2. Masukan pasword user UI anda.
 
-<div align="center"> <img src="https://ibb.co/B2GfDZ4"> </div>
+<div align="center"> <img src="https://i.ibb.co/9HhpXTw/1.png"> </div>
