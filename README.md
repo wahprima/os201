@@ -20,7 +20,7 @@ Website ini dibuat sebagai latihan diri pembuat untuk dapat membagi informasi ya
 
 #### Materi
 
-1. [Membuat website menggunakan github] - sumber https://github.com/UI-FASILKOM-OS (https://extra182.vlsm.org/)
+1. [Membuat website menggunakan github](https://extra182.vlsm.org/) - sumber https://github.com/UI-FASILKOM-OS 
 2. [Materi Sistem Operasi UI](https://1drv.ms/u/s!AjAUCcP4ukTJgtRM5PvhDtC-KarQNQ?e=bMp1SD)
 
 
